@@ -2,7 +2,7 @@
 Fabpalette
 
 rot
-grün
+hellgrün
 blau
 gelb
 magenta
