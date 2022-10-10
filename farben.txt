@@ -5,3 +5,6 @@ rot
 grün
 blau
 gelb
+magenta
+
+sind alles tolle farben
